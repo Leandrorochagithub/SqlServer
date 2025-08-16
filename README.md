@@ -4,3 +4,4 @@
   1. Backup full
   2. Bakcup Differential
   3. Backup Transation Log
+  4. Limpeza regular de Transation Log
